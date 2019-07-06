@@ -35,5 +35,6 @@ a summary of Markdown
   ## 斜体  
   一个* 包含的文本，示例  
   *斜体*示例  
-  
-  
+    
+      
+    参考自[献给作者新手的指南](https://www.jianshu.com/p/q81RER)
