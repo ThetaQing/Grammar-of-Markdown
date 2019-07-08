@@ -1,2 +1,7 @@
-����test3
-��һ������cloneһ����Ŀ���������Ŀ�ļ������½����ı�
+这是test3
+第一步：先clone一个项目，在这个项目文件夹下新建该文本  
+第二步：编辑该文本，在这个项目文件夹下运行git
+第三步：git add . 或者git add a.txt
+第四步：git commit -m"备注信息"
+第五步：git push origin master
+第六步：刷新github，得到github上新的内容
